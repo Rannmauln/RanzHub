@@ -39,3 +39,16 @@ luac.out
 *.x86_64
 *.hex
 
+# Lua files
+*.lua.bak
+
+# Keys (jangan diupload)
+keys/*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

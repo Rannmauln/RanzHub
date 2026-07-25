@@ -1,0 +1,58 @@
+# ================================================================
+# RANZHUB CHANGELOG
+# ================================================================
+
+## v1.3.0 — 2026-07-24
+### Added
+- Support untuk Potassium executor
+- Support untuk medium executor (KRNL, Delta)
+- Auto-updater dari GitHub
+- Git deployment system
+- Key system v2.0
+
+### Fixed
+- Bug pada click detector
+- Error pada Potassium karena keyword 'continue'
+- Memory leak pada loop utama
+
+### Changed
+- Optimasi performa untuk low-end PC
+- UI lebih responsif
+
+---
+
+## v1.2.0 — 2026-07-22
+### Added
+- Auto Pets (hatch, equip, sell)
+- Auto Expand
+- Auto Tame Wild
+- Premium GUI
+
+### Fixed
+- Teleport collision issue
+- Plant priority sorting
+
+---
+
+## v1.1.0 — 2026-07-21
+### Added
+- Auto Steal (anti-detect)
+- Anti Steal
+- Discord Webhook
+- Webhook notifications
+
+### Fixed
+- Water timer reset bug
+- UI scaling issue
+
+---
+
+## v1.0.0 — 2026-07-20
+### Added
+- Initial release
+- Auto Harvest
+- Auto Plant
+- Auto Water
+- Auto Sell
+- Basic GUI
+- Free & Premium versions
